@@ -1,6 +1,6 @@
 # IsoQuant
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17431823.svg)](https://doi.org/10.5281/zenodo.17431823)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17431829.svg)](https://doi.org/10.5281/zenodo.17431829)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 **Raw Means, Calibration & Quantification for Isotope Analysis**
@@ -205,14 +205,14 @@ If you use IsoQuant in your research, please cite it as:
   year         = 2024,
   publisher    = {Zenodo},
   version      = {v1.1.0},
-  doi          = {10.5281/zenodo.17431823},
-  url          = {https://doi.org/10.5281/zenodo.17431823}
+  doi          = {10.5281/zenodo.17431829},
+  url          = {https://doi.org/10.5281/zenodo.17431829}
 }
 ```
 
 Or in text format:
 
-> Norelli, F., Natali, S., & Raco, B. (2024). IsoQuant: Raw Means, Calibration & Quantification for Isotope Analysis (v1.1.0). Zenodo. https://doi.org/10.5281/zenodo.17431823
+> Norelli, F., Natali, S., & Raco, B. (2024). IsoQuant: Raw Means, Calibration & Quantification for Isotope Analysis (v1.1.0). Zenodo. https://doi.org/10.5281/zenodo.17431829
 
 ---
 
