@@ -1,0 +1,52 @@
+{
+  "title": "IsoQuant: Raw Means, Calibration & Quantification for Isotope Analysis",
+  "description": "IsoQuant is a desktop application for processing and analyzing stable isotope data with configurable reference standards. It provides tools for raw data processing, calibration curve calculation (δ18O and δ2H), sample quantification, data visualization, and export to Excel format. The software implements a multi-curve calibration approach with rigorous uncertainty propagation, conforming to IAEA international standards for isotope geochemistry.",
+  "version": "1.1.0",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Norelli, Francesco",
+      "affiliation": "Istituto di Geoscienze e Georisorse (IGG-CNR), Pisa",
+      "orcid": ""
+    },
+    {
+      "name": "Natali, Stefano",
+      "affiliation": "Dipartimento di Scienze della Terra (DST), Università di Pisa",
+      "orcid": ""
+    },
+    {
+      "name": "Raco, Brunella",
+      "affiliation": "Istituto di Geoscienze e Georisorse (IGG-CNR), Pisa",
+      "orcid": ""
+    }
+  ],
+  "access_right": "open",
+  "license": "GPL-3.0-or-later",
+  "keywords": [
+    "isotope analysis",
+    "stable isotopes",
+    "calibration",
+    "quantification",
+    "oxygen-18",
+    "deuterium",
+    "δ18O",
+    "δ2H",
+    "scientific software",
+    "geochemistry",
+    "CRDS",
+    "water isotopes",
+    "data processing"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/arsenico120183/IsoQuant",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "contributors": [],
+  "references": [
+    "IAEA (2009). Reference Sheet for International Measurement Standards. VSMOW2 and SLAP2.",
+    "Coplen, T.B. (2011). Guidelines and recommended terms for expression of stable-isotope-ratio and gas-ratio measurement results. Rapid Communications in Mass Spectrometry, 25(17), 2538-2560."
+  ]
+}

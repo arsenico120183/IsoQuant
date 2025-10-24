@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "IsoQuant: Raw Means, Calibration & Quantification for Isotope Analysis"
+version: 1.1.0
+date-released: 2024-10-20
+authors:
+  - family-names: "Norelli"
+    given-names: "Francesco"
+    email: "francesco.norelli@igg.cnr.it"
+    affiliation: "Istituto di Geoscienze e Georisorse (IGG-CNR), Pisa"
+  - family-names: "Natali"
+    given-names: "Stefano"
+    affiliation: "Dipartimento di Scienze della Terra (DST), Università di Pisa"
+  - family-names: "Raco"
+    given-names: "Brunella"
+    affiliation: "Istituto di Geoscienze e Georisorse (IGG-CNR), Pisa"
+repository-code: "https://github.com/arsenico120183/IsoQuant"
+url: "https://github.com/arsenico120183/IsoQuant"
+keywords:
+  - isotope analysis
+  - stable isotopes
+  - calibration
+  - quantification
+  - oxygen-18
+  - deuterium
+  - δ18O
+  - δ2H
+  - scientific software
+  - geochemistry
+license: GPL-3.0-or-later
+abstract: "IsoQuant is a desktop application for processing and analyzing stable isotope data with configurable reference standards. It provides tools for raw data processing, calibration curve calculation (δ18O and δ2H), sample quantification, data visualization, and export to Excel format."
