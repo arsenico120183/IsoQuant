@@ -1,5 +1,8 @@
 # IsoQuant
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17431823.svg)](https://doi.org/10.5281/zenodo.17431823)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 **Raw Means, Calibration & Quantification for Isotope Analysis**
 
 IsoQuant is a desktop application for processing and analyzing stable isotope data with configurable reference standards.
@@ -179,13 +182,37 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+---
+
+## 👥 Authors
+
+- **Francesco Norelli** - Author and Developer - Istituto di Geoscienze e Georisorse (IGG-CNR), Pisa
+- **Stefano Natali** - Co-author - Dipartimento di Scienze della Terra (DST), Università di Pisa
+- **Brunella Raco** - Co-author - Istituto di Geoscienze e Georisorse (IGG-CNR), Pisa
 
 ---
 
-## 👤 Author
+## 📖 Citation
 
-**Francesco Norelli**
+If you use IsoQuant in your research, please cite it as:
+
+```bibtex
+@software{norelli2024isoquant,
+  author       = {Norelli, Francesco and
+                  Natali, Stefano and
+                  Raco, Brunella},
+  title        = {IsoQuant: Raw Means, Calibration & Quantification for Isotope Analysis},
+  year         = 2024,
+  publisher    = {Zenodo},
+  version      = {v1.1.0},
+  doi          = {10.5281/zenodo.17431823},
+  url          = {https://doi.org/10.5281/zenodo.17431823}
+}
+```
+
+Or in text format:
+
+> Norelli, F., Natali, S., & Raco, B. (2024). IsoQuant: Raw Means, Calibration & Quantification for Isotope Analysis (v1.1.0). Zenodo. https://doi.org/10.5281/zenodo.17431823
 
 ---
 
